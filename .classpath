@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="modded-wordcount/src"/>
+	<classpathentry kind="lib" path="modded-wordcount/modded-wordcount.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/hadoop-1.0.2"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
